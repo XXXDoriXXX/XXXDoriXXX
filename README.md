@@ -14,6 +14,5 @@ Cloud & Infrastructure
 
 ### 📊 Stats & Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XXXDoriXXX&theme=dark&ring=fb4362&fire=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=XXXDoriXXX)](https://git.io/streak-stats)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XXXDoriXXX&show_icons=true&theme=dark&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e&bg_color=151515&hide_border=true)
