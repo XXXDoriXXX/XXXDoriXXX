@@ -12,6 +12,8 @@ Databases & Persistence
 Cloud & Infrastructure
 <p> <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" /> <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> <img alt="Railway" src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" /> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> <img alt="Render" src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black" /> <img alt="Neon" src="https://img.shields.io/badge/-Neon_DB-00E599?style=flat-square&logo=neon&logoColor=black" />  </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XXXDoriXXX&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+### 📊 Stats & Activity
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XXXDoriXXX&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XXXDoriXXX&theme=dark&ring=fb4362&fire=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XXXDoriXXX&show_icons=true&theme=dark&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e&bg_color=151515&hide_border=true)
