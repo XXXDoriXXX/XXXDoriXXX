@@ -15,4 +15,4 @@ Cloud & Infrastructure
 ### 📊 Stats & Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=XXXDoriXXX)](https://git.io/streak-stats)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XXXDoriXXX&show_icons=true&theme=dark&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e&bg_color=151515&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XXXDoriXXX)](https://github.com/anuraghazra/github-readme-stats)
